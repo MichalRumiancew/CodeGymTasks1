@@ -634,3 +634,51 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-09-13 17:27:51 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-09-13 17:27:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-09-13 17:27:52 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-13 19:23:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-13 19:23:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-13 19:23:44 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-13 19:23:45 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-13 19:24:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-13 19:24:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-13 19:24:05 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-13 19:24:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-13 19:24:06 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-17 12:59:52 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-09-17 12:59:52 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.58 ----------
+
+2022-09-17 12:59:52 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-09-17 12:59:52 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-09-17 12:59:53 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-09-17 12:59:53 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-09-17 12:59:53 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-09-17 12:59:53 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-17 13:21:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-17 13:21:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:21:36 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-17 13:21:37 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-17 13:25:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-17 13:25:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:25:30 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-17 13:25:31 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-17 13:26:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-17 13:26:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:26:31 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-17 13:26:31 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-17 13:27:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-17 13:27:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:27:35 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-17 13:27:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:27:36 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-17 13:32:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-17 13:32:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:32:26 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-17 13:32:27 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-17 13:34:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-17 13:34:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:34:55 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-17 13:34:56 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
+2022-09-17 13:37:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-09-17 13:37:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:37:18 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-09-17 13:37:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-09-17 13:37:19 INFO  AnalyticsService.run(86) - null : error in server. Status code :429
